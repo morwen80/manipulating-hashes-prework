@@ -1,3 +1,5 @@
+binding.pry 
+
 def second_challenge
   groceries = {
    dairy: ["milk", "yogurt", "cheese"],
@@ -8,6 +10,7 @@ def second_challenge
 
   #code your solution here!
 
-  
+  grocery_list = groceries.values
 
+return grocery_list
 end
