@@ -14,4 +14,4 @@ def second_challenge
 
 end
 
-list
+second_challenge
