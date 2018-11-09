@@ -9,8 +9,6 @@ def second_challenge
 
   #code your solution here!
 
-  grocery_list = groceries.values
+  return groceries.values
 
 end
-
-grocery_list
