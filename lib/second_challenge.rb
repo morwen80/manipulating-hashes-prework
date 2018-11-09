@@ -1,4 +1,3 @@
-binding.pry 
 
 def second_challenge
   groceries = {
