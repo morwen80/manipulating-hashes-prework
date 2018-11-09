@@ -12,5 +12,6 @@ def second_challenge
 
   grocery_list = groceries.values
 
-grocery_list
 end
+
+grocery_list
