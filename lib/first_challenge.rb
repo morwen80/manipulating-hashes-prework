@@ -20,6 +20,7 @@ contacts.each do |name, data|
       value.delete_if == "strawberry"
     end
   end
+end
 
   #remember to return your newly altered contacts hash!
   contacts
