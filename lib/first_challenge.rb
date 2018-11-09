@@ -31,3 +31,4 @@ contacts.each do |name, data|
 contacts
 end
 
+first_challenge
